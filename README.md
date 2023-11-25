@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto
 - 🌱 I’m currently writing code in solidity
 - 💞️ I’m looking to collaborate on DAOs or DAPPs
-- 📫 You can reach me on discord at "a Fig#8772"
+- 📫 You can reach me on discord at "a_Fig"
 
 <!---
 a-Fig/a-Fig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
