@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-Fig
+- 👋 Hi, I’m Tyler 
 - 👀 I’m interested in crypto
 - 🌱 I’m currently writing code in Solidity, Python, and C++
 - 💞️ I’m looking to collaborate on DAOs or DAPPs
