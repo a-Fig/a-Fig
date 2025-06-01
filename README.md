@@ -20,10 +20,10 @@ Dedicated CS student at De Anza College transferring to SJSU in Fall 2025 with e
 * Integrated advanced features (customizable subscription terms, administrative fund oversight, and comprehensive event logging).
 
 ## ACHIEVEMENTS
-* 1st place at San Jose’s Admitted Spartan programming contest - Apr 2025
-* 3rd place at DAHACKS-3.5 with AceAnything - May 2025
-* Top 20 on site for ICPC - Feb 2024 & Nov 2024
-* Received Certificate of Achievement Programming in C++ from De Anza College - Dec 2024
+* 1st place at San Jose’s Admitted Spartan programming contest | Apr 2025
+* 3rd place at DAHACKS-3.5 with AceAnything | May 2025
+* Top 20 on site for ICPC | Feb 2024 & Nov 2024
+* Received Certificate of Achievement Programming in C++ from De Anza College | Dec 2024
 
 ## PROJECTS
 ### AceAnything — Python, FastAPI, Google Cloud AI (Gemini, TTS) | [See Github](https://github.com/a-Fig/AceAnything)
