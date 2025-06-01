@@ -38,9 +38,8 @@ Dedicated CS student at De Anza College transferring to SJSU in Fall 2025 with e
 * Python, Image processing, & real automation in a custom complex environment.
 
 ### WordSolver — C++, Trie | [See Github](https://github.com/a-Fig/WordSolver)
-* A command-line application that can find words given a matrix of letters.
+* Command-line application that finds words and swaps given a matrix of letters.
 * Adapted for iMessage and Discord.
-* Application of Data structures and Algorithms.
 
 ### Blackjack On Chain — Solidity | [See Github](https://github.com/a-Fig/Blackjack-On-Chain)
 * Designed and programmed a smart contract to play blackjack on chain.
