@@ -26,23 +26,23 @@ Dedicated CS student at De Anza College transferring to SJSU in Fall 2025 with e
 * Received Certificate of Achievement Programming in C++ from De Anza College - Dec 2024
 
 ## PROJECTS
-### AceAnything — Python, FastAPI, Google Cloud AI (Gemini, TTS)
+### AceAnything — Python, FastAPI, Google Cloud AI (Gemini, TTS) (See Github)[https://github.com/a-Fig/AceAnything]
 * [Live Demo](https://www.youtube.com/watch?v=your_video_link)
 * [46 second video showcase](https://www.youtube.com/watch?v=your_video_link)
 * Generates custom quizzes with instant AI feedback.
 * Utilized Gemini models for personalized feedback and Google TTS for accessible learning.
 
-### Automated Game Bot — Python, AI Object Detection, Multithreading
+### Automated Game Bot — Python, AI Object Detection, Multithreading (See Github)[https://github.com/a-Fig/Automated-Game-Bot]
 * [42 second video showcase](https://www.youtube.com/watch?v=your_video_link)
 * Custom detection models & multithreading for real-time decision-making.
 * Python, Image processing, & real automation in a custom complex environment.
 
-### WordSolver — C++, Trie
+### WordSolver — C++, Trie (See Github)[https://github.com/a-Fig/WordSolver]
 * A command-line application that can find words given a matrix of letters.
 * Adapted for iMessage and Discord.
 * Application of Data structures and Algorithms.
 
-### Blackjack On Chain — Solidity
+### Blackjack On Chain — Solidity (See Github)[https://github.com/a-Fig/Blackjack-On-Chain]
 * Designed and programmed a smart contract to play blackjack on chain.
 
 ### Uniswap v3 position manager — Solidity, Javascript
