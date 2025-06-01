@@ -1,5 +1,5 @@
 # Tyler Darisme
-Bay Area | [linkedin](https://www.linkedin.com/in/tyler-darisme-454011300/)
+Bay Area | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-darisme-454011300/) | [Github](https://github.com/a-Fig/)
 
 ## SUMMARY
 Dedicated CS student at De Anza College transferring to SJSU in Fall 2025 with experience in competitive programming & blockchain development. Experience in C++, Python, Solidity & Applied AI. Now seeking an internship to apply my skills to solve business problems and learn from industry professionals.
