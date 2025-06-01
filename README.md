@@ -27,13 +27,13 @@ Dedicated CS student at De Anza College transferring to SJSU in Fall 2025 with e
 
 ## PROJECTS
 ### AceAnything — Python, FastAPI, Google Cloud AI (Gemini, TTS) | [See Github](https://github.com/a-Fig/AceAnything)
-* [Live Demo](https://www.youtube.com/watch?v=your_video_link)
-* [46 second video showcase](https://www.youtube.com/watch?v=your_video_link)
+* [Live Demo, Try It Now](https://aceanything.onrender.com/)
+* [46 second video showcase](https://youtu.be/oYFL1bcYDqw)
 * Generates custom quizzes with instant AI feedback.
 * Utilized Gemini models for personalized feedback and Google TTS for accessible learning.
 
 ### Automated Game Bot — Python, AI Object Detection, Multithreading | [See Github](https://github.com/a-Fig/Automated-Game-Bot)
-* [42 second video showcase](https://www.youtube.com/watch?v=your_video_link)
+* [42 second video showcase](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
 * Custom detection models & multithreading for real-time decision-making.
 * Python, Image processing, & real automation in a custom complex environment.
 
