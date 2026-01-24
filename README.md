@@ -2,10 +2,13 @@
 Bay Area | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-darisme-454011300/) | [Github](https://github.com/a-Fig/)
 
 ## SUMMARY
-Dedicated CS student at De Anza College transferring to SJSU in Fall 2025 with experience in competitive programming & blockchain development. Experience in C++, Python, Solidity & Applied AI. Now seeking an internship to apply my skills to solve business problems and learn from industry professionals.
+Dedicated CS student at SJSU with experience in competitive programming & blockchain development. Experience in C++, Python, Solidity & Applied AI. Now seeking an internship to apply my skills to solve business problems and learn from industry professionals.
 
 ## EDUCATION
-**De Anza College, Transferring to SJSU** | Expected, May 2027
+**San Jose State University | 2026
+* Computer Science Major
+
+**De Anza College | 2023 - 2025
 * Computer Science Major
 * Relevant coursework: Advanced C++ programming, Data abstraction and Structures, Python programming
 * Clubs: Developer’s Guild, Competitive Programming Club
