@@ -1,53 +1,79 @@
 # Tyler Darisme
 Bay Area | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-darisme-454011300/) | [Github](https://github.com/a-Fig/)
 
-## SUMMARY
-Dedicated CS student at SJSU with experience in competitive programming & blockchain development. Experience in C++, Python, Solidity & Applied AI. Now seeking an internship to apply my skills to solve business problems and learn from industry professionals.
+---
 
-## EDUCATION
-**San Jose State University | 2026
-* Computer Science Major
+## Education
 
-**De Anza College | 2023 - 2025
-* Computer Science Major
-* Relevant coursework: Advanced C++ programming, Data abstraction and Structures, Python programming
-* Clubs: Developer’s Guild, Competitive Programming Club
-* Certificate of Achievement Programming in C++, Dec 2024
+**San Jose State University | Computer Science** — Expected May 2028
 
-## EXPERIENCE
-**Serraform Labs** | Paid Internship | Oct 2022 - July 2023
-* Engineered a smart contract, facilitated 63 transactions, enhanced monetization through practical solutions.
-* Designed and developed a product for a multi-billion dollar crypto project on a 7 person team.
-* Enabled users to rent an m3u8 link with cryptocurrency to stream into Decentraland from Twitch or Youtube.
-* Built the on-chain Smart Contract to facilitate user payments using the USDC token.
-* Integrated advanced features (customizable subscription terms, administrative fund oversight, and comprehensive event logging).
+Relevant coursework: Advanced C++, Data Structures & Algorithms, Advanced Python  
+Clubs: Developer's Guild, Competitive Programming Club  
+Certificate of Achievement, C++ Programming — Dec 2024
 
-## ACHIEVEMENTS
-* 1st place at San Jose’s Admitted Spartan programming contest  -  Apr 2025
-* 3rd place at DAHACKS-3.5 with AceAnything  -  May 2025
-* Top 20 on site for ICPC  -  Feb 2024 & Nov 2024
-* Received Certificate of Achievement Programming in C++ from De Anza College  -  Dec 2024
+---
 
-## PROJECTS
-### AceAnything — Python, FastAPI, Google Cloud AI (Gemini, TTS) | [See Github](https://github.com/a-Fig/AceAnything)
-* [Live Demo, Try It Now](https://aceanything.onrender.com/)
-* [46 second video showcase](https://youtu.be/oYFL1bcYDqw)
-* Generates custom quizzes with instant AI feedback.
-* Utilized Gemini models for personalized feedback and Google TTS for accessible learning.
+## Skills
 
-### Automated Game Bot — Python, AI Object Detection, Multithreading | [See Github](https://github.com/a-Fig/Automated-Game-Bot)
-* [42 second video showcase](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
-* Custom detection models & multithreading for real-time decision-making.
-* Python, Image processing, & real automation in a custom complex environment.
+**Languages:** Python, C++, TypeScript, JavaScript, Solidity  
+**Frameworks:** Next.js 15, FastAPI, Prisma, NextAuth.js  
+**Databases:** PostgreSQL, PostGIS, pgvector  
+**Cloud & Infrastructure:** Google Cloud Run  
+**APIs & Libraries:** Google Vision API, Gemini, OpenZeppelin
 
-### WordSolver — C++, Trie | [See Github](https://github.com/a-Fig/WordSolver)
-* Command-line application that finds words and swaps given a matrix of letters.
-* Adapted for iMessage and Discord.
+---
 
-### Blackjack On Chain — Solidity | [See Github](https://github.com/a-Fig/Blackjack-On-Chain)
-* Designed and programmed a smart contract to play blackjack on chain.
+## Experience
 
-### Uniswap v3 position manager — Solidity, Javascript
-* Automated a system to manage positions in Uniswap v3, optimizing investment returns.
-* Utilized OpenZeppelin to build compliant and secure smart contracts.
+**Competitive Programming Club | Tech Officer** — September 2025 – February 2026
+
+- Delivered weekly lectures on algorithms and data structures to club members
+- Mentored new students to improve problem-solving skills and contest performance
+
+**Shipcaptain | Software Engineering Intern** — June 2025 – August 2025
+
+- Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
+- Implemented role-based access control, audit logging, and middleware-based route protection
+- Integrated NextAuth.js for authentication and password reset workflows with automated email notifications
+
+**Serraform Labs | Software Engineering Intern** — October 2022 – July 2023
+
+- Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
+- Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
+
+---
+
+## Achievements
+
+- **1st place** — SJSU Admitted Spartan Programming Contest, Apr 2025
+- **3rd place** — DAHACKS-3.5, May 2025
+- **Top 20 on-site** — ICPC Regional, Feb 2024 & Nov 2024
+
+---
+
+## Projects
+
+**AfterCart** — PostgreSQL, Google Vision API, Cloud Run, Gemini | [github](https://github.com/a-Fig/aftercart-davis-hacks-2026)
+
+- Receipt-to-price-comparison tool: photograph a grocery receipt, get a basket-level comparison across nearby stores in real time
+- Ingested 18,649 real price observations across 14,053 unique barcodes and 244 stores via Open Food Facts and live receipt data
+- Deployed to production on Google Cloud Run with PostgreSQL + PostGIS + pgvector; OCR via Google Vision API, item matching via Gemini 2.5 Flash
+
+**Agent Trials** — Python, Next.js, TypeScript, PostgreSQL, Cloud Run | [live](https://agent-trials-407493014719.us-west1.run.app/)
+
+- Live platform for evaluating AI agents through competitive games — purpose-built to stress-test distinct agent capabilities
+- Built live Elo ranking and real-time spectator system; platform has logged 403 completed games across 49 unique agents
+
+**Automated Trading Bot** — Python, Computer Vision, Market Making
+
+- Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent profitability across $840K+ in total volume
+- Built a custom detection pipeline and real-time decision engine; tracked 10+ KPIs for performance monitoring and strategy optimization
+
+**Automated Game Bot** — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
+
+- Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic, high-frequency environment
+
+**Blockchain Projects** — Solidity, JavaScript
+
+- Built a Uniswap v3 position manager implementing concentrated liquidity optimization and secure OpenZeppelin contracts
 
