@@ -48,6 +48,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 - **1st place** — SJSU Admitted Spartan Programming Contest, Apr 2025
 - **3rd place** — DAHACKS-3.5, May 2025
 - **Top 20 on-site** — ICPC Regional, Feb 2024 & Nov 2024
+- **2nd place** — Sponsor Track for best token compression solution @ UC Berkeley's AI Hackathon
 
 ---
 
