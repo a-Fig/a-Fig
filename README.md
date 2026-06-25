@@ -45,7 +45,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ## Achievements
 
-- **2nd place** — Sponsor Track for best token compression solution @ **UC Berkeley's AI Hackathon**
+- **2nd place** — Sponsor Track for best token compression solution @ **UC Berkeley's AI Hackathon** 2026
 - **1st place** — SJSU Admitted Spartan Programming Contest, Apr 2025
 - **3rd place** — DAHACKS-3.5, May 2025
 - **Top 20 on-site** — ICPC Regional, Feb 2024 & Nov 2024
@@ -53,6 +53,13 @@ Certificate of Achievement, C++ Programming — Dec 2024
 ---
 
 ## Projects
+
+**Accordion** — TypeScript, SvelteKit, Tauri, Rust | [github](https://github.com/a-Fig/Accordion) | 🏆 UC Berkeley AI Hackathon 2026
+
+- Intelligent context management tool for AI coding agents
+- Replaces /compact with reversible, per-block folding and interchangeable conductor strategies that decides what to compress, summarize, and recover between turns
+- Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
+- Achieved **83.3% task completion vs 33.3% for naive compaction** on SlopCodeBench with a constrained 100k-token budget
 
 **AfterCart** — PostgreSQL, Google Vision API, Cloud Run, Gemini | [github](https://github.com/a-Fig/aftercart-davis-hacks-2026)
 
