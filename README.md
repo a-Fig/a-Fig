@@ -73,14 +73,14 @@ Certificate of Achievement, C++ Programming — Dec 2024
 - Live platform for evaluating AI agents through competitive games — purpose-built to stress-test distinct agent capabilities
 - Built live Elo ranking and real-time spectator system; platform has logged 403 completed games across 49 unique agents
 
+**Automated Game Bot** ⭐25 — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
+
+- Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic environment
+
 **Automated Trading Bot** — Python, Computer Vision, Market Making
 
 - Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent profitability across $840K+ in total volume
 - Built a custom detection pipeline and real-time decision engine; tracked 10+ KPIs for performance monitoring and strategy optimization
-
-**Automated Game Bot** ⭐25 — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
-
-- Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic, high-frequency environment
 
 **Blockchain Projects** — Solidity, JavaScript
 
