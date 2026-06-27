@@ -15,6 +15,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ## Skills
 
+**AI Tools:** Claude Code, pi, mcp
 **Languages:** Python, C++, TypeScript, JavaScript, Solidity  
 **Frameworks:** Next.js 15, FastAPI, Prisma, NextAuth.js  
 **Databases:** PostgreSQL, PostGIS, pgvector  
