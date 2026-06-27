@@ -54,7 +54,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ## Projects
 
-#### **Accordion** ⭐116 — TypeScript, Tauri, Rust | [github](https://github.com/a-Fig/Accordion) | 🏆 UC Berkeley AI Hackathon 2026
+#### **Accordion** ⭐116 — TypeScript, Tauri, Rust | [github](https://github.com/a-Fig/Accordion) [get-accordion.dev](https://get-accordion.dev/)| 🏆 UC Berkeley AI Hackathon 2026
 
 - Intelligent context management tool for AI coding agents
 - KV-Cache optimized
@@ -62,7 +62,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
 - Achieved **83.3% task completion vs 33.3% for naive compaction** on SlopCodeBench with a constrained 100k-token budget
 
-**AfterCart** — PostgreSQL, Google Vision API, Cloud Run, Gemini | [github](https://github.com/a-Fig/aftercart-davis-hacks-2026)
+**AfterCart** — PostgreSQL, Google Vision API, Cloud Run, Gemini | [github](https://github.com/a-Fig/aftercart-davis-hacks-2026) [live](https://aftercart-web-407493014719.us-west1.run.app/)
 
 - Receipt-to-price-comparison tool: photograph a grocery receipt, get a basket-level comparison across nearby stores in real time
 - Ingested 18,649 real price observations across 14,053 unique barcodes and 244 stores via Open Food Facts and live receipt data
