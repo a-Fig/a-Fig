@@ -54,10 +54,11 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ## Projects
 
-**Accordion** ⭐100+ — TypeScript, Tauri, Rust | [github](https://github.com/a-Fig/Accordion) | 🏆 UC Berkeley AI Hackathon 2026
+#### **Accordion** ⭐100+ — TypeScript, Tauri, Rust | [github](https://github.com/a-Fig/Accordion) | 🏆 UC Berkeley AI Hackathon 2026
 
 - Intelligent context management tool for AI coding agents
-- Replaces /compact with reversible, per-block folding and interchangeable conductor strategies that decides what to compress, summarize, and recover between turns
+- KV-Cache optimized
+- Replaces /compact with reversible, per-block folding and interchangeable conductor strategies that decides what and how to fold and unfold blocks between turns
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
 - Achieved **83.3% task completion vs 33.3% for naive compaction** on SlopCodeBench with a constrained 100k-token budget
 
