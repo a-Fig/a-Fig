@@ -54,7 +54,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ## Projects
 
-**Accordion** — TypeScript, SvelteKit, Tauri, Rust | [github](https://github.com/a-Fig/Accordion) | 🏆 UC Berkeley AI Hackathon 2026
+**Accordion** — TypeScript, SvelteKit, Tauri, Rust | [github](https://github.com/a-Fig/Accordion) | 🏆 UC Berkeley AI Hackathon 2026 |⭐100+
 
 - Intelligent context management tool for AI coding agents
 - Replaces /compact with reversible, per-block folding and interchangeable conductor strategies that decides what to compress, summarize, and recover between turns
