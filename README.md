@@ -77,7 +77,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 - Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent profitability across $840K+ in total volume
 - Built a custom detection pipeline and real-time decision engine; tracked 10+ KPIs for performance monitoring and strategy optimization
 
-**Automated Game Bot** — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
+**Automated Game Bot** — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b) | ⭐25
 
 - Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic, high-frequency environment
 
