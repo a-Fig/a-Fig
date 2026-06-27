@@ -45,7 +45,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ## Achievements
 
-- **2nd place** — **UC Berkeley's AI Hackathon 2026** - Won sponsor track for best token compression solution with Accordion
+- **2nd place** — **UC Berkeley's AI Hackathon 2026** - Won sponsor track for best token compression solution with [Accordion]((https://github.com/a-Fig/Accordion))
 - **1st place** — SJSU Admitted Spartan Programming Contest, Apr 2025
 - **3rd place** — DAHACKS-3.5 with AceAnything, May 2025
 - **Top 20 on-site** — ICPC Regional, Feb 2024 & Nov 2024
