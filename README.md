@@ -58,7 +58,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 - Intelligent context management tool for AI coding agents
 - KV-Cache optimized
-- Replaces /compact with reversible, per-block folding and interchangeable conductor strategies that decides what and how to fold and unfold blocks between turns
+- Replaces /compact with reversible, per-block folding and interchangeable context strategies that decides when and how to fold/unfold context between turns
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
 - Achieved **83.3% task completion vs 33.3% for naive compaction** on SlopCodeBench with a constrained 100k-token budget
 
