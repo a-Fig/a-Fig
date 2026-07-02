@@ -1,4 +1,4 @@
-# Tyler Darisme
+# Tyler Darisme 123
 Bay Area | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-darisme-454011300/) | [Github](https://github.com/a-Fig/)
 
 ---
