@@ -13,16 +13,6 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ---
 
-## Skills
-
-**Languages:** Python, C++, TypeScript, JavaScript, Solidity  
-**Frameworks:** Next.js 15, FastAPI, Prisma, NextAuth.js  
-**Databases:** PostgreSQL, PostGIS, pgvector  
-**Cloud & Infrastructure:** Google Cloud Run  
-**AI Tools:** Claude Code, [pi](https://github.com/earendil-works/pi), MCP
-
----
-
 ## Experience
 
 **Competitive Programming Club | Tech Officer** — September 2025 – February 2026
@@ -85,4 +75,14 @@ Certificate of Achievement, C++ Programming — Dec 2024
 **Blockchain Projects** — Solidity, JavaScript
 
 - Built a Uniswap v3 position manager implementing concentrated liquidity optimization and secure OpenZeppelin contracts
+
+---
+
+## Skills
+
+**Languages:** Python, C++, TypeScript, JavaScript, Solidity  
+**Frameworks:** Next.js 15, FastAPI, Prisma, NextAuth.js  
+**Databases:** PostgreSQL, PostGIS, pgvector  
+**Cloud & Infrastructure:** Google Cloud Run  
+**AI Tools:** Claude Code, [pi](https://github.com/earendil-works/pi), MCP
 
