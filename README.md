@@ -44,7 +44,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 
 ## Projects
 
-**Accordion** ⭐202 — TypeScript, Tauri, Rust | 🏆 UC Berkeley AI Hackathon 2026 | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
+**Accordion** ⭐232 — TypeScript, Tauri, Rust | 🏆 UC Berkeley AI Hackathon 2026 | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
 
 - Intelligent context management tool for AI coding agents
 - KV-Cache optimized
