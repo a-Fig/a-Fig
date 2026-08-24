@@ -5,7 +5,7 @@ Bay Area | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-d
 
 ## Education
 
-**San Jose State University | Computer Science** — Expected May 2028
+**San Jose State University | Computer Science** — Expected Spring 2027
 
 Relevant coursework: Advanced C++, Data Structures & Algorithms, Advanced Python  
 Clubs: Developer's Guild, Competitive Programming Club  
