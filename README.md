@@ -72,7 +72,7 @@ Clubs: Developer's Guild, Competitive Programming Club
 
 **Automated Trading Bot** — Python, Computer Vision, Market Making | Actively profitable — demo available on request
 
-- Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent profitability across ***$840K+ in total volume***
+- Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent ***profitability across $840K+ in total volume***
 - Built a custom detection pipeline and real-time decision engine; tracked 10+ KPIs for performance monitoring and strategy optimization
 
 **Blockchain Projects** — Solidity, JavaScript
