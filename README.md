@@ -7,12 +7,12 @@ Bay Area | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-d
 
 **San Jose State University | Computer Science** — Expected May 2027
 
-Relevant coursework: Advanced C++, Data Structures & Algorithms, Advanced Python  
-Clubs: Developer's Guild, Competitive Programming Club
+Relevant coursework: Advanced C++, Data Structures & Algorithms, Advanced Python
 
 **De Anza College**
 
-***Certificate of Achievement, Advanced C++ Programming*** — Dec 2024
+***Certificate of Achievement, Advanced C++ Programming*** — Dec 2024  
+Clubs: Developer's Guild, Competitive Programming Club
 
 ---
 
