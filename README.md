@@ -20,7 +20,7 @@ Clubs: Developer's Guild, Competitive Programming Club
 
 **Competitive Programming Club | Tech Officer** — September 2025 – February 2026
 
-- Delivered weekly lectures on algorithms and data structures to club members
+- *Delivered weekly lectures* on algorithms and data structures to club members
 - Mentored new students to improve problem-solving skills and contest performance
 
 **Shipcaptain (Startup) | Software Engineering Intern** — June 2025 – August 2025
@@ -47,7 +47,7 @@ Clubs: Developer's Guild, Competitive Programming Club
 
 ## Projects
 
-**Accordion** ⭐232 — TypeScript, Tauri, Rust | 🏆 UC Berkeley AI Hackathon 2026 | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
+***Accordion*** ⭐232 — TypeScript, Tauri, Rust | *🏆 UC Berkeley AI Hackathon 2026* | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
 
 - Intelligent context management tool for AI coding agents
 - KV-Cache optimized
