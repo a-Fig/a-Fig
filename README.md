@@ -50,7 +50,7 @@ Certificate of Achievement, C++ Programming — Dec 2024
 - KV-Cache optimized
 - Replaces /compact with reversible, per-block folding and interchangeable context strategies that decides when and how to fold/unfold context between turns
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
-- Achieved **83.3% task completion vs 33.3% for naive compaction** on SlopCodeBench with a constrained 100k-token budget
+- Achieved *83.3% task completion vs 33.3% for naive compaction* on SlopCodeBench with a constrained 100k-token budget
 
 **AfterCart** — PostgreSQL, Google Vision API, Cloud Run, Gemini | [live](https://aftercart-web-407493014719.us-west1.run.app/) | [github](https://github.com/a-Fig/aftercart-davis-hacks-2026)
 
