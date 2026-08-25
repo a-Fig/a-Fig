@@ -61,11 +61,6 @@ Clubs: Developer's Guild, Competitive Programming Club
 - Ingested 18,649 real price observations across 14,053 unique barcodes and 244 stores via Open Food Facts and live receipt data
 - Deployed to production on Google Cloud Run with PostgreSQL + PostGIS + pgvector; OCR via Google Vision API, item matching via Gemini 2.5 Flash
 
-**Agent Trials** — Python, Next.js, TypeScript, PostgreSQL, Cloud Run | [live](https://agent-trials-407493014719.us-west1.run.app/)
-
-- Live platform for evaluating AI agents through competitive games — purpose-built to stress-test distinct agent capabilities
-- Built live Elo ranking and real-time spectator system; platform has logged 403 completed games across 49 unique agents
-
 **Automated Game Bot** ⭐25 — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
 
 - Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic environment
