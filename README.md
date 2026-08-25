@@ -8,8 +8,11 @@ Bay Area | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-d
 **San Jose State University | Computer Science** — Expected May 2027
 
 Relevant coursework: Advanced C++, Data Structures & Algorithms, Advanced Python  
-Clubs: Developer's Guild, Competitive Programming Club  
-Certificate of Achievement, C++ Programming — Dec 2024
+Clubs: Developer's Guild, Competitive Programming Club
+
+**De Anza College**
+
+Certificate of Achievement, Advanced C++ Programming — Dec 2024
 
 ---
 
@@ -20,13 +23,13 @@ Certificate of Achievement, C++ Programming — Dec 2024
 - Delivered weekly lectures on algorithms and data structures to club members
 - Mentored new students to improve problem-solving skills and contest performance
 
-**Shipcaptain | Software Engineering Intern** — June 2025 – August 2025
+**Shipcaptain (Startup) | Software Engineering Intern** — June 2025 – August 2025
 
 - Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
 - Implemented role-based access control, audit logging, and middleware-based route protection
 - Integrated NextAuth.js for authentication and password reset workflows with automated email notifications
 
-**Serraform Labs | Software Engineering Intern** — October 2022 – July 2023
+**Serraform Labs (Startup) | Software Engineering Intern** — October 2022 – July 2023
 
 - Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
 - Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
