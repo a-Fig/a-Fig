@@ -12,7 +12,7 @@ Clubs: Developer's Guild, Competitive Programming Club
 
 **De Anza College**
 
-Certificate of Achievement, Advanced C++ Programming — Dec 2024
+***Certificate of Achievement, Advanced C++ Programming*** — Dec 2024
 
 ---
 
