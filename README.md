@@ -1,5 +1,5 @@
 # Tyler Darisme
-Bay Area | Tylerd2474@gmail.com | [linkedin.com](https://www.linkedin.com/in/tyler-darisme-454011300/)/in/tyler-darisme-454011300 | [Github/a-fig](https://github.com/a-Fig/) | [aFig.dev](https://aFig.dev/) 
+Bay Area | Tylerd2474@gmail.com | [linkedin.com/in/tyler-darisme-454011300](https://www.linkedin.com/in/tyler-darisme-454011300/) | [Github/a-fig](https://github.com/a-Fig/) | [aFig.dev](https://aFig.dev/) 
 
 ---
 
