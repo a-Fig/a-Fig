@@ -19,12 +19,14 @@ Clubs: Developer's Guild, Competitive Programming Club
 ## Experience
 
 **Competitive Programming Club | Tech Officer**
+
 September 2025 – February 2026
 
 - *Delivered weekly lectures* on algorithms and data structures to club members
 - Mentored new students to improve problem-solving skills and contest performance
 
 **Shipcaptain (Startup) | Software Engineering Intern**
+
 June 2025 – August 2025
 
 - Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
@@ -32,6 +34,7 @@ June 2025 – August 2025
 - Integrated NextAuth.js for authentication and password reset workflows with automated email notifications
 
 **Serraform Labs (Startup) | Software Engineering Intern**
+
 October 2022 – July 2023
 
 - Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
@@ -51,6 +54,7 @@ October 2022 – July 2023
 ## Projects
 
 **Accordion** *⭐232*
+
 TypeScript, Tauri, Rust | ***🏆 UC Berkeley AI Hackathon 2026*** | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
 
 - Intelligent context management tool for AI coding agents
@@ -60,6 +64,7 @@ TypeScript, Tauri, Rust | ***🏆 UC Berkeley AI Hackathon 2026*** | [get-accord
 - Achieved ***83.3% task completion vs 33.3% for naive compaction*** on SlopCodeBench with a constrained 100k-token budget
 
 **AfterCart**
+
 PostgreSQL, Google Vision API, Cloud Run, Gemini | [live](https://aftercart-web-407493014719.us-west1.run.app/) | [github](https://github.com/a-Fig/aftercart-davis-hacks-2026)
 
 - Receipt-to-price-comparison tool: photograph a grocery receipt, get a basket-level comparison across nearby stores in real time
@@ -67,17 +72,20 @@ PostgreSQL, Google Vision API, Cloud Run, Gemini | [live](https://aftercart-web-
 - Deployed to production on Google Cloud Run with PostgreSQL + PostGIS + pgvector; OCR via Google Vision API, item matching via Gemini 2.5 Flash
 
 **Automated Game Bot** ⭐25
+
 Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
 
 - Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic environment
 
 **Automated Trading Bot**
+
 Python, Computer Vision, Market Making | Actively profitable — demo available on request
 
 - Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent ***profitability across $840K+ in total volume***
 - Built a custom detection pipeline and real-time decision engine; tracked 10+ KPIs for performance monitoring and strategy optimization
 
 **Blockchain Projects**
+
 Solidity, JavaScript
 
 - Built a Uniswap v3 position manager implementing concentrated liquidity optimization and secure OpenZeppelin contracts
