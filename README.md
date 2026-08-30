@@ -53,7 +53,7 @@ October 2022 – July 2023
 
 ## Projects
 
-**Accordion** *⭐232*
+### **Accordion** *⭐232*
 
 TypeScript, Tauri, Rust | ***🏆 UC Berkeley AI Hackathon 2026*** | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
 
@@ -63,7 +63,7 @@ TypeScript, Tauri, Rust | ***🏆 UC Berkeley AI Hackathon 2026*** | [get-accord
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
 - Achieved ***83.3% task completion vs 33.3% for naive compaction*** on SlopCodeBench with a constrained 100k-token budget
 
-**AfterCart**
+### **AfterCart**
 
 PostgreSQL, Google Vision API, Cloud Run, Gemini | [live](https://aftercart-web-407493014719.us-west1.run.app/) | [github](https://github.com/a-Fig/aftercart-davis-hacks-2026)
 
@@ -71,20 +71,20 @@ PostgreSQL, Google Vision API, Cloud Run, Gemini | [live](https://aftercart-web-
 - Ingested 18,649 real price observations across 14,053 unique barcodes and 244 stores via Open Food Facts and live receipt data
 - Deployed to production on Google Cloud Run with PostgreSQL + PostGIS + pgvector; OCR via Google Vision API, item matching via Gemini 2.5 Flash
 
-**Automated Game Bot** ⭐25
+### **Automated Game Bot** ⭐25
 
 Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
 
 - Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic environment
 
-**Automated Trading Bot**
+### **Automated Trading Bot**
 
 Python, Computer Vision, Market Making | Actively profitable — demo available on request
 
 - Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent ***profitability across $840K+ in total volume***
 - Built a custom detection pipeline and real-time decision engine; tracked 10+ KPIs for performance monitoring and strategy optimization
 
-**Blockchain Projects**
+### **Blockchain Projects**
 
 Solidity, JavaScript
 
