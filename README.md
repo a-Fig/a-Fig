@@ -1,5 +1,5 @@
 # Tyler Darisme
-Bay Area, CA | Tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-darisme-454011300/) | [Github/a-fig](https://github.com/a-Fig/) | [aFig.dev](https://aFig.dev/) 
+Bay Area, CA | tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyler-darisme-454011300/) | [GitHub/a-Fig](https://github.com/a-Fig/) | [aFig.dev](https://aFig.dev/) 
 
 ---
 
@@ -18,11 +18,6 @@ Clubs: Developer's Guild, Competitive Programming Club
 
 ## Experience
 
-**Competitive Programming Club | Tech Officer** — September 2025 – February 2026
-
-- *Delivered weekly lectures* on algorithms and data structures to club members
-- Mentored new students to improve problem-solving skills and contest performance
-
 **Shipcaptain (Startup) | Software Engineering Intern** — June 2025 – August 2025
 
 - Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
@@ -33,6 +28,11 @@ Clubs: Developer's Guild, Competitive Programming Club
 
 - Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
 - Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
+
+**Competitive Programming Club | Tech Officer** — September 2025 – February 2026
+
+- *Delivered weekly lectures* on algorithms and data structures to club members
+- Mentored new students to improve problem-solving skills and contest performance
 
 ---
 
@@ -78,9 +78,10 @@ Clubs: Developer's Guild, Competitive Programming Club
 
 ## Skills
 
-**Languages:** Python, C++, TypeScript, JavaScript, Solidity  
-**Frameworks:** Next.js 15, FastAPI, Prisma, NextAuth.js  
-**Databases:** PostgreSQL, PostGIS, pgvector  
-**Cloud & Infrastructure:** Google Cloud Run  
-**AI Tools:** Claude Code, [pi](https://github.com/earendil-works/pi), MCP
+**Languages:** Python, TypeScript, JavaScript, C++, Solidity, Rust (Tauri)  
+**Frontend:** Next.js 15, Svelte/SvelteKit, Vue, Tauri  
+**Backend:** FastAPI, Flask, Prisma, NextAuth.js, Node.js  
+**Databases:** PostgreSQL, PostGIS, pgvector, Cloud SQL  
+**Cloud & Infrastructure:** Google Cloud Run, Cloudflare Pages/Workers, Durable Objects, Docker  
+**AI / ML:** Claude Code, [pi](https://github.com/earendil-works/pi), MCP, YOLOv11, Transformers.js, Gemini API
 
