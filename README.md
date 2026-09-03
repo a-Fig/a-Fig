@@ -5,7 +5,7 @@ Bay Area, CA | tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyl
 
 ## Education
 
-**San Jose State University | Computer Science** — Expected May 2027
+**San Jose State University | Computer Science** — Expected May 2028
 
 Relevant coursework: Advanced C++, Data Structures & Algorithms, Advanced Python  
 Clubs: ACM, Competitive Programming Club, Developer's Guild
