@@ -18,22 +18,22 @@ Clubs: ACM, Competitive Programming Club
 
 ## Experience
 
-**ACM @ SJSU | Consulting Project Lead** — September 2026 – Present
+**ACM @ SJSU | Consulting Project Lead** *San Jose, CA* — September 2026 – Present
 
 - Leading a client consulting engagement through the club, coordinating a small team from requirements through delivery
 
-**Shipcaptain (Startup) | Software Engineering Intern** — June 2025 – August 2025
+**Shipcaptain (Startup) | Software Engineering Intern** *Remote* — June 2025 – August 2025
 
 - Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
 - Implemented role-based access control, audit logging, and middleware-based route protection
 - Integrated NextAuth.js for authentication and password reset workflows with automated email notifications
 
-**Serraform Labs (Startup) | Software Engineering Intern** — October 2022 – July 2023
+**Serraform Labs (Startup) | Software Engineering Intern** *Remote* — October 2022 – July 2023
 
 - Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
 - Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
 
-**Competitive Programming Club | Tech Officer** — September 2025 – February 2026
+**Competitive Programming Club | Tech Officer** *Cupertino, CA (De Anza College)* — September 2025 – February 2026
 
 - *Delivered weekly lectures* on algorithms and data structures to club members
 - Mentored students 1-on-1 to prepare them for ICPC
@@ -67,12 +67,8 @@ Clubs: ACM, Competitive Programming Club
 
 **Automated Game Bot** ⭐25 — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
 
-- Built custom object detection models and a multithreaded automation engine for real-time decision-making in a dynamic environment
-
-**Automated Trading Bot** — Python, Computer Vision, Market Making | Actively profitable — demo available on request
-
-- Acted as a market maker in a niche online marketplace, autonomously executing trades with consistent ***profitability across $840K+ in total volume***
-- Built a custom detection pipeline and real-time decision engine; tracked 10+ KPIs for performance monitoring and strategy optimization
+- Built a fully autonomous game bot: 5 custom YOLOv11 object detection models and a multithreaded automation engine drive real-time decisions in a dynamic environment
+- A closed-source market-making offshoot applies the same detection-and-decision approach to autonomously execute trades, with consistent ***profitability across $840K+ in total volume*** and 10+ KPIs tracked for strategy optimization
 
 **Blockchain Projects** — Solidity, JavaScript
 
