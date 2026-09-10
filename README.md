@@ -18,7 +18,7 @@ Clubs: ACM, Competitive Programming Club
 
 ## Experience
 
-**ACM @ SJSU | Consulting Project Lead** — Fall 2026 – Current
+**ACM @ SJSU | Consulting Project Lead** — September 2026 – Present
 
 - Leading a client consulting engagement through the club, coordinating a small team from requirements through delivery
 
