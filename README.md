@@ -7,7 +7,7 @@ Bay Area, CA | tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyl
 
 **San Jose State University | B.S. Computer Science** — Expected May 2028
 
-Relevant coursework: Advanced C++, Data Structures & Algorithms, Advanced Python  
+Relevant coursework: Data Structures & Algorithms, Object-Oriented Design, Operating Systems, Advanced C++, Advanced Python  
 Clubs: ACM, Competitive Programming Club, Developer's Guild
 
 **De Anza College**
@@ -29,10 +29,14 @@ Clubs: ACM, Competitive Programming Club, Developer's Guild
 - Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
 - Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
 
+**ACM @ SJSU | Consulting Project Lead** — [semester/year]
+
+- Leading a client consulting engagement through the club, coordinating a small team from requirements through delivery
+
 **Competitive Programming Club | Tech Officer** — September 2025 – February 2026
 
 - *Delivered weekly lectures* on algorithms and data structures to club members
-- Mentored new students to improve problem-solving skills and contest performance
+- Mentored students 1-on-1 to prepare them for ICPC
 
 ---
 
