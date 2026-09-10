@@ -47,9 +47,9 @@ Clubs: ACM, Competitive Programming Club, Developer's Guild
 
 ## Projects
 
-**Accordion** *⭐232* — TypeScript, Tauri, Rust | ***🏆 UC Berkeley AI Hackathon 2026*** | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
-
-- Intelligent context management tool for AI coding agents
+**Accordion** *⭐232* — TypeScript, Tauri, Rust | ***🏆 2nd @ UC Berkeley AI Hackathon 2026*** | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
+- Opensource project with 200+ stars on github
+- Intelligent context management and visualization tool for developers
 - KV-Cache optimized
 - Replaces /compact with reversible, per-block folding and interchangeable context strategies that decides when and how to fold/unfold context between turns
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
