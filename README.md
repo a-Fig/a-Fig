@@ -22,6 +22,11 @@ Clubs: ACM, Competitive Programming Club
 
 - Leading a client consulting engagement through the club, coordinating a small team from requirements through delivery
 
+**Competitive Programming Club | Tech Officer** *Cupertino, CA (De Anza College)* — September 2025 – February 2026
+
+- *Delivered weekly lectures* on algorithms and data structures to club members
+- Mentored students 1-on-1 to prepare them for ICPC
+
 **Shipcaptain (Startup) | Software Engineering Intern** *Remote* — June 2025 – August 2025
 
 - Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
@@ -32,11 +37,6 @@ Clubs: ACM, Competitive Programming Club
 
 - Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
 - Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
-
-**Competitive Programming Club | Tech Officer** *Cupertino, CA (De Anza College)* — September 2025 – February 2026
-
-- *Delivered weekly lectures* on algorithms and data structures to club members
-- Mentored students 1-on-1 to prepare them for ICPC
 
 ---
 
