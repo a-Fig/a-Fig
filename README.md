@@ -68,7 +68,7 @@ Clubs: ACM, Competitive Programming Club
 **Automated Game Bot** ⭐25 — Python, Computer Vision, Multithreading | [github](https://github.com/a-Fig/Automated-Game-Bot) | [video](https://youtu.be/l8Mt02X6kl4?si=K8NbSyZRvXRJIz_b)
 
 - Built a fully autonomous game bot using 5 custom YOLOv11 object detection models and a multithreaded architecture to drive real-time decisions in a dynamic environment
-- A closed-source market-making offshoot applies the same detection-and-decision approach to autonomously execute trades, with consistent ***profitability across $840K+ in total volume*** and tracks 10+ KPIs for visibility 
+- A closed-source fork which acts as a market maker in a digital market achieved consistent ***profitability across $840K+ in total volume*** and tracks 10+ KPIs for visibility 
 
 **Blockchain Projects** — Solidity, JavaScript
 
