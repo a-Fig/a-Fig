@@ -54,7 +54,7 @@ Clubs: ACM, Competitive Programming Club
 **Accordion** *⭐243* — TypeScript, Tauri, Rust | ***🏆 2nd @ UC Berkeley AI Hackathon 2026*** | [get-accordion.dev](https://get-accordion.dev/) | [github](https://github.com/a-Fig/Accordion) 
 - Opensource project with 200+ stars on github
 - Intelligent context management and visualization tool for developers
-- Replaces /compact with reversible, per-block folding(edits) and interchangeable context strategies that decides when and how to edit context between turns
+- Replaces /compact with reversible, per-block folding and interchangeable context strategies that decides when and how to edit context between turns
 - Batched context edits to minimize KV-cache invalidations, ***cutting inference costs by up to 90%****
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
 - Achieved ***83.3% task completion vs 33.3% for naive compaction*** on SlopCodeBench with a constrained 100k-token budget
