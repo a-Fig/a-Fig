@@ -55,7 +55,7 @@ Clubs: ACM, Competitive Programming Club
 - Opensource project with 200+ stars on github
 - Intelligent context management and visualization tool for developers
 - Replaces /compact with reversible, per-block folding and interchangeable context strategies that decides when and how to fold/unfold context between turns
-- Batched contexted edits to minimize KV-cache invalidations, cutting inference costs by up to 90%*
+- Batched context edits to minimize KV-cache invalidations, cutting inference costs by up to 90%*
 - Used the attention from a 500M parameter model as a proxy to rank the relevance of past context
 - Achieved ***83.3% task completion vs 33.3% for naive compaction*** on SlopCodeBench with a constrained 100k-token budget
 
