@@ -18,22 +18,22 @@ Clubs: ACM, Competitive Programming Club
 
 ## Experience
 
-**ACM @ SJSU | Consulting Project Lead** *San Jose, CA* — Sep 2026 – Present
+**ACM @ SJSU | Consulting Project Lead** San Jose, CA — Sep 2026 – Present
 
 - Leading a client consulting engagement through the club, coordinating a small team from requirements through delivery
 
-**Competitive Programming Club | Tech Officer** *Cupertino, CA (De Anza College)* — Sep 2025 – Feb 2026
+**Competitive Programming Club | Tech Officer** Cupertino, CA (De Anza College) — Sep 2025 – Feb 2026
 
 - *Delivered weekly lectures* on algorithms and data structures to club members
 - Mentored students 1-on-1 to prepare them for ICPC
 
-**Shipcaptain (Startup) | Software Engineering Intern** *Remote* — Jun 2025 – Aug 2025
+**Shipcaptain (Startup) | Software Engineering Intern** Remote — Jun 2025 – Aug 2025
 
 - Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
 - Implemented role-based access control, audit logging, and middleware-based route protection
 - Integrated NextAuth.js for authentication and password reset workflows with automated email notifications
 
-**Serraform Labs (Startup) | Software Engineering Intern** *Remote* — Oct 2022 – Jul 2023
+**Serraform Labs (Startup) | Software Engineering Intern** Remote — Oct 2022 – Jul 2023
 
 - Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion dollar crypto project
 - Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
