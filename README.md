@@ -22,7 +22,7 @@ Clubs: ACM, Competitive Programming Club
 
 - Leading a client consulting engagement through the club, coordinating a small team from requirements through delivery
 
-**Competitive Programming Club | Tech Officer** Cupertino, CA (De Anza College) — Sep 2025 – Feb 2026
+**Competitive Programming Club | Tech Officer** De Anza College — Sep 2025 – Feb 2026
 
 - *Delivered weekly lectures* on algorithms and data structures to club members
 - Mentored students 1-on-1 to prepare them for ICPC
