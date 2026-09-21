@@ -11,6 +11,7 @@ Relevant coursework: Data Structures & Algorithms, Object-Oriented Design, Opera
 Clubs: ACM, Competitive Programming Club
 
 **De Anza College**
+
 ***Certificate of Achievement, Programming in C/C++ (With Honors), Dean's List***
 
 ---
