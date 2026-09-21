@@ -10,9 +10,9 @@ Bay Area, CA | tylerd2474@gmail.com | [linkedin](https://www.linkedin.com/in/tyl
 Relevant coursework: Data Structures & Algorithms, Object-Oriented Design, Operating Systems, Advanced C++, Advanced Python  
 Clubs: ACM, Competitive Programming Club
 
-**De Anza College**
+**De Anza College** | Certificate of Achievement, Programming in C/C++ (With Honors)
 
-***Certificate of Achievement, Advanced C++ Programming*** — Dec 2024
+
 
 ---
 
