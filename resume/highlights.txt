@@ -1,9 +1,10 @@
 # Phrases afig.dev/resume sweeps a marker highlight over as they scroll into view.
 #
 # One phrase per line, copied from the PDF's text. Every place the phrase appears
-# gets highlighted. Matching ignores case and line breaks; everything else must
-# match exactly. A phrase that isn't in the PDF is skipped, so a stale line does
-# no harm. Blank lines and lines starting with # are ignored.
+# as whole words gets highlighted. Matching ignores case and line breaks;
+# everything else must match exactly. Where two phrases overlap, the longer one
+# wins. A phrase that isn't in the PDF is skipped, so a stale line does no harm.
+# Blank lines and lines starting with # are ignored.
 #
 # This only affects the website. The PDF itself is never marked up.
 
