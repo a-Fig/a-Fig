@@ -27,7 +27,15 @@ offers for download. The site serves it at `afig.dev/resume.pdf`, fetched from t
    - Extract the text (for example with `pdftotext` or PyMuPDF). It should read top to bottom in
      order, with no split or merged words. Hyphenation and `fi`/`fl` ligatures are turned off on
      purpose so that ATS parsers see whole words; keep them off.
-4. Commit the `.tex` and the `.pdf` together.
+4. If a change rewords a phrase listed in `highlights.txt`, update that line to the new wording so
+   the site keeps highlighting it. Leave the rest of the list alone; which phrases to highlight is
+   Tyler's call.
+5. Commit the `.tex` and the `.pdf` together.
+
+## Highlights
+
+`highlights.txt` lists the phrases the site sweeps a marker over, one per line (rules are at the top
+of that file). They are drawn on the page by the site, so the PDF itself never changes.
 
 ## Conventions the README doesn't carry
 
