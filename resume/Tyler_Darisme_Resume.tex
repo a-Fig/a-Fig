@@ -1,0 +1,152 @@
+% Tyler Darisme -- one-page resume (Tectonic / XeTeX)
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{fontspec}
+\setmainfont{lmroman10}[
+  Extension      = .otf,
+  UprightFont    = *-regular,
+  BoldFont       = *-bold,
+  ItalicFont     = *-italic,
+  BoldItalicFont = *-bolditalic,
+  SmallCapsFont  = lmromancaps10-regular,
+  Ligatures      = {TeX, NoCommon}  % keep "fi"/"fl" as plain letters for ATS text extraction
+]
+\usepackage[letterpaper, top=0.4in, bottom=0.4in, left=0.5in, right=0.5in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\hypersetup{
+  pdftitle    = {Tyler Darisme - Resume},
+  pdfauthor   = {Tyler Darisme},
+  pdfsubject  = {Resume},
+  pdfkeywords = {Software Engineer, Computer Science, TypeScript, Python, C++, Rust, Next.js, PostgreSQL, AI}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\raggedright
+\hyphenpenalty=10000  % no split words: ATS parsers read "multi-/threaded" as two tokens
+\setlength{\tabcolsep}{0pt}
+
+% Section headings
+\titleformat{\section}{\scshape\large}{}{0em}{}[\vspace{-8pt}\rule{\linewidth}{0.5pt}]
+\titlespacing*{\section}{0pt}{6pt}{1pt}
+
+% Bullet lists
+\setlist[itemize]{leftmargin=0.15in, itemsep=0pt, parsep=0pt, topsep=0pt, partopsep=0pt, label={\small\textbullet}}
+\newenvironment{bullets}{\small\begin{itemize}}{\end{itemize}\vspace{1pt}}
+
+\newcommand{\sep}{\enspace\textbar\enspace}
+\newcommand{\link}[2]{\href{#1}{\underline{#2}}}
+
+% \entry{Organization}{Role}{Right side: location | dates}
+\newcommand{\entry}[3]{%
+  \begin{tabular*}{\linewidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    \textbf{#1}\sep\textit{\small #2} & {\small #3} \\
+  \end{tabular*}\par}
+
+% \project{Name}{Stack}{Links}
+\newcommand{\project}[3]{%
+  \begin{tabular*}{\linewidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    \textbf{#1}\sep\textit{\small #2} & {\small #3} \\
+  \end{tabular*}\par}
+
+\begin{document}
+
+%----------------------------------------------------------------- HEADER
+\begin{center}
+  {\Huge\scshape Tyler Darisme}\\[3pt]
+  \small
+  Bay Area, CA\sep
+  \link{mailto:tylerd2474@gmail.com}{tylerd2474@gmail.com}\sep
+  \link{https://www.linkedin.com/in/tyler-darisme-454011300/}{linkedin.com/in/tyler-darisme-454011300}\sep
+  \link{https://github.com/a-Fig/}{github.com/a-Fig}\sep
+  \link{https://afig.dev/}{afig.dev}
+\end{center}
+\vspace{-7pt}
+
+%----------------------------------------------------------------- EDUCATION
+\section{Education}
+\entry{San Jose State University}{B.S. Computer Science}{San Jose, CA\sep Expected May 2028}
+{\small
+  \textbf{Relevant Coursework:} Data Structures \& Algorithms, Object-Oriented Design, Operating Systems, Advanced C++, Advanced Python\\
+  \textbf{Clubs:} ACM, Competitive Programming Club\par}
+\vspace{1pt}
+\entry{De Anza College}{Certificate of Achievement, Programming in C/C++ (With Honors); Dean's List}{Cupertino, CA}
+
+%----------------------------------------------------------------- EXPERIENCE
+\section{Experience}
+\entry{ACM @ SJSU}{Consulting Project Lead}{San Jose, CA\sep Sep 2026 -- Present}
+\begin{bullets}
+  \item Leading a client consulting engagement through the club, coordinating a small team from requirements through delivery
+\end{bullets}
+
+\entry{Competitive Programming Club, De Anza College}{Tech Officer}{Cupertino, CA\sep Sep 2025 -- Feb 2026}
+\begin{bullets}
+  \item Delivered weekly lectures on algorithms and data structures to club members
+  \item Mentored students 1-on-1 to prepare them for the ICPC
+\end{bullets}
+
+\entry{Shipcaptain (Startup)}{Software Engineering Intern}{Remote\sep Jun 2025 -- Aug 2025}
+\begin{bullets}
+  \item Built a secure, full-stack admin portal using Next.js 15, TypeScript, Prisma, and PostgreSQL
+  \item Implemented role-based access control, audit logging, and middleware-based route protection
+  \item Integrated NextAuth.js for authentication and password reset workflows with automated email notifications
+\end{bullets}
+
+\entry{Serraform Labs (Startup)}{Software Engineering Intern}{Remote\sep Oct 2022 -- Jul 2023}
+\begin{bullets}
+  \item Built the on-chain smart contract handling user payments via the USDC token, as part of a 7-person team shipping a live Web3 product for a multi-billion-dollar crypto project
+  \item Integrated customizable subscription terms, administrative fund oversight, and comprehensive event logging
+\end{bullets}
+
+%----------------------------------------------------------------- ACHIEVEMENTS
+\section{Achievements}
+\begin{bullets}
+  \item \textbf{2nd Place,} UC Berkeley AI Hackathon -- won sponsor track for best token compression solution with Accordion \hfill 2026
+  \item \textbf{1st Place,} SJSU Admitted Spartan Programming Contest \hfill Apr 2025
+  \item \textbf{3rd Place,} DAHacks 3.5 with AceAnything \hfill May 2025
+  \item \textbf{Top 20 On-site,} ICPC Regional \hfill Feb 2024 \& Nov 2024
+\end{bullets}
+
+%----------------------------------------------------------------- PROJECTS
+\section{Projects}
+\project{Accordion}{TypeScript, Tauri, Rust}{\link{https://get-accordion.dev/}{get-accordion.dev}\sep\link{https://github.com/a-Fig/Accordion}{GitHub}}
+\begin{bullets}
+  \item Open-source context management and visualization tool for developers, with 243 GitHub stars
+  \item Replaces /compact with reversible per-block folding and swappable strategies that decide when and how to edit context
+  \item Batched context edits to minimize KV-cache invalidations, \textbf{cutting inference costs by up to 90\%}
+  \item Used the attention from a 500M-parameter model as a proxy to rank the relevance of past context
+  \item Achieved \textbf{83.3\% task completion vs.\ 33.3\% for naive compaction} on SlopCodeBench under a 100k-token budget
+\end{bullets}
+
+\project{AfterCart}{PostgreSQL, Google Vision API, Cloud Run, Gemini}{\link{https://aftercart-web-407493014719.us-west1.run.app/}{Live}\sep\link{https://github.com/a-Fig/aftercart-davis-hacks-2026}{GitHub}}
+\begin{bullets}
+  \item Receipt-to-price-comparison tool: photograph a grocery receipt, get a basket-level comparison across nearby stores
+  \item Ingested \textbf{18,649 price observations} across 14,053 unique barcodes and 244 stores via Open Food Facts and live receipts
+  \item Deployed on Cloud Run with PostgreSQL/PostGIS/pgvector; Google Vision OCR and Gemini 2.5 Flash item matching
+\end{bullets}
+
+\project{Automated Game Bot}{Python, Computer Vision, Multithreading}{\link{https://github.com/a-Fig/Automated-Game-Bot}{GitHub}\sep\link{https://youtu.be/l8Mt02X6kl4}{Video}}
+\begin{bullets}
+  \item Built a fully autonomous game bot (25 GitHub stars) using 5 custom YOLOv11 object detection models and a multithreaded architecture to drive real-time decisions in a dynamic environment
+  \item A closed-source fork acting as a market maker in a digital market achieved \textbf{consistent profitability across \$840K+ in total volume} and tracks 10+ KPIs for visibility
+\end{bullets}
+
+\project{Blockchain Projects}{Solidity, JavaScript}{}
+\begin{bullets}
+  \item Built a Uniswap v3 position manager with concentrated liquidity optimization and secure OpenZeppelin contracts
+\end{bullets}
+
+%----------------------------------------------------------------- SKILLS
+\section{Skills}
+{\small
+  \textbf{Languages:} Python, TypeScript, JavaScript, C++, Solidity, Rust \\
+  \textbf{Frontend:} Next.js 15, Svelte/SvelteKit, Vue, Tauri \\
+  \textbf{Backend:} FastAPI, Flask, Prisma, NextAuth.js, Node.js \\
+  \textbf{Databases:} PostgreSQL, PostGIS, pgvector, Cloud SQL \\
+  \textbf{Cloud \& Infrastructure:} Google Cloud Run, Cloudflare Pages/Workers, Durable Objects, Docker \\
+  \textbf{AI / ML:} Claude Code, pi, MCP, YOLOv11, Transformers.js, Gemini API\par}
+
+\end{document}
