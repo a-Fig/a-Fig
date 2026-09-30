@@ -9,35 +9,8 @@
 # This only affects the website. The PDF itself is never marked up.
 
 Darisme
-
-San Jose State University | B.S. Computer Science
-De Anza College
-Certificate of Achievement, Programming in C/C++ (With Honors); Dean's List
-
-ACM @ SJSU | Consulting Project Lead
-Competitive Programming Club, De Anza College | Tech Officer
-Delivered weekly lectures
-Shipcaptain (Startup) | Software Engineering Intern
-Serraform Labs (Startup) | Software Engineering Intern
-
 2nd Place
-UC Berkeley AI Hackathon
-1st Place
-3rd Place
-Top 20 On-site
-
-Accordion | TypeScript, Tauri, Rust
 243 GitHub stars
 cutting inference costs by up to 90%
 83.3% task completion vs. 33.3% for naive compaction
-AfterCart
-Automated Game Bot
 profitability across $840K+ in total volume
-Blockchain Projects
-
-Languages:
-Frontend:
-Backend:
-Databases:
-Cloud & Infrastructure:
-AI / ML:
