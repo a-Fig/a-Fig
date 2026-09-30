@@ -39,7 +39,8 @@ of that file). They are drawn on the page by the site, so the PDF itself never c
 
 ## Conventions the README doesn't carry
 
-- No emoji. Star counts are plain text ("243 GitHub stars").
+- No emoji. Star counts are plain text ("243 GitHub stars") on the project's header line, after
+  the stack, not in the bullets.
 - Header links show their real addresses (`github.com/a-Fig`), so they still work when printed.
 - Each entry header is a single line: organization | role on the left, location | dates on the
   right.

@@ -8,9 +8,9 @@
 #
 # This only affects the website. The PDF itself is never marked up.
 
-Darisme
-2nd Place
 243 GitHub stars
-cutting inference costs by up to 90%
+25 GitHub stars
+2nd Place, UC Berkeley AI Hackathon
 83.3% task completion vs. 33.3% for naive compaction
-profitability across $840K+ in total volume
+cutting inference costs by up to 90%
+consistent profitability across $840K+ in total volume
