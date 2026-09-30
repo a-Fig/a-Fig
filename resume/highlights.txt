@@ -1,0 +1,42 @@
+# Phrases afig.dev/resume sweeps a marker highlight over as they scroll into view.
+#
+# One phrase per line, copied from the PDF's text. Every place the phrase appears
+# gets highlighted. Matching ignores case and line breaks; everything else must
+# match exactly. A phrase that isn't in the PDF is skipped, so a stale line does
+# no harm. Blank lines and lines starting with # are ignored.
+#
+# This only affects the website. The PDF itself is never marked up.
+
+Darisme
+
+San Jose State University | B.S. Computer Science
+De Anza College
+Certificate of Achievement, Programming in C/C++ (With Honors); Dean's List
+
+ACM @ SJSU | Consulting Project Lead
+Competitive Programming Club, De Anza College | Tech Officer
+Delivered weekly lectures
+Shipcaptain (Startup) | Software Engineering Intern
+Serraform Labs (Startup) | Software Engineering Intern
+
+2nd Place
+UC Berkeley AI Hackathon
+1st Place
+3rd Place
+Top 20 On-site
+
+Accordion | TypeScript, Tauri, Rust
+243 GitHub stars
+cutting inference costs by up to 90%
+83.3% task completion vs. 33.3% for naive compaction
+AfterCart
+Automated Game Bot
+profitability across $840K+ in total volume
+Blockchain Projects
+
+Languages:
+Frontend:
+Backend:
+Databases:
+Cloud & Infrastructure:
+AI / ML:
